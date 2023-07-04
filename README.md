@@ -1,5 +1,6 @@
+![logo](https://github.com/prernagupta26/prernagupta26/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Prerna Gupta</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate developer with a strong drive for building innovative and impactful solutions. With a focus on Java, C++, and object-oriented programming, I'm constantly exploring new technologies and honing my skills to stay at the forefront of the industry. Join me on this exciting journey of continuous learning and collaboration as we push the boundaries of what's possible in the world of software development.
+<h3 align="center" style="text-align: justify;">Welcome to my GitHub profile! I'm a passionate developer with a strong drive for building innovative and impactful solutions. With a focus on Java, C++, and object-oriented programming, I'm constantly exploring new technologies and honing my skills to stay at the forefront of the industry. Join me on this exciting journey of continuous learning and collaboration as we push the boundaries of what's possible in the world of software development.
 </h3>
 
 <img align="right" alt="coding" width="400" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
